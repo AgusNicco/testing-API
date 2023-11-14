@@ -1,0 +1,1 @@
+public record Car (string model, int maxSpeed);
